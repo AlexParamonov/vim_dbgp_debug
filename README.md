@@ -1,6 +1,6 @@
 DBGp client for XDebug/PHP
 ==========================
-Its a mirror version from [www.vim.org](http://www.vim.org/scripts/script.php?script_id=1929)
+Its a vim DBGp debugger client originally based on [vim.org DBGp client](http://www.vim.org/scripts/script.php?script_id=1929)  
 
 Contributing
 -------------
