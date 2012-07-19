@@ -2,6 +2,11 @@ DBGp client for XDebug/PHP
 ==========================
 Its a mirror version from [www.vim.org](http://www.vim.org/scripts/script.php?script_id=1929)
 
+Contributing
+-------------
+**Please help to improve this project!**
+
+See [contributing guide](http://github.com/AlexParamonov/dbgp_xdebug/blob/master/CONTRIBUTING.md) for best practices  
 
 Example mappings
 ----------------
